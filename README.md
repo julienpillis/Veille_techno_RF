@@ -1,8 +1,7 @@
-# Veille_techno_RF
+# Veille technologique : Les technologies des systèmes de reconnaissance faciale
 
-<iframe src="https://giphy.com/embed/3o7abnQiguzMTaYlOM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/colonyusa-colony-tory-kittles-usa-3o7abnQiguzMTaYlOM">via GIPHY</a></p>
+![FR_GIF]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/colonyusa-colony-tory-kittles-usa-3o7abnQiguzMTaYlOM))
 
-Veille technologique : Les technologies des systèmes de reconnaissance faciale
 
 Le sujet de notre veille technologique est celui des technologies liées à la reconnaissance faciale. Par technologies, nous entendons “Ensemble de termes techniques propres à un domaine” tel que défini par le Centre National de Ressources Textuelles et Lexicales. Selon la CNIL (Commission Nationale de l'Informatique et des Libertés), la reconnaissance faciale est une technique qui permet, à partir des traits du visage :
 D'authentifier une personne, c'est-à-dire de vérifier qu'une personne est bien celle qu'elle prétend être, notamment dans le cadre d'un contrôle d'accès.
