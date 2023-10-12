@@ -13,3 +13,4 @@ Nous verrons un exemple concret d’application de ces méthodes au sein d’un 
 
 
 ![unnamed](https://github.com/julienpillis/Veille_techno_RF/assets/73343827/e75bf8b0-2bf1-4cba-9f05-87e6019d2724)
+<br><i>Lien du graphe : <a href="https://go.stemic.app/maps/1bf0a933-a027-426c-95fa-daad89119f85">Extraction des caractéristiques</a> </i>
