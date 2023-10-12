@@ -8,3 +8,4 @@ Ces réseaux existent depuis longtemps et sont très nombreux : LeNET, Inception
 Parmi les CNN, certains se démarquent par leur architecture d’apprentissage multi-tâches (MTL). Ces architecture ont des branches distinctes pour chaque tâche:  (reconnaissance faciale et identification du sexe par exemple), tout en partgeant les mêmes couches de convulsion. Ces réseaux permettent de renforcer la sécurité de l'authentification et la rapidité des systèmes (X. Yin et  X. Liu, 2018).
 
 ![unnamed](https://github.com/julienpillis/Veille_techno_RF/assets/73343827/38b010fc-60c7-45b0-bc91-868d32b52544)
+<br><i>Lien du graphe : <a href="https://go.stemic.app/maps/1bf0a933-a027-426c-95fa-daad89119f85">Extraction des caractéristiques</a> </i>
