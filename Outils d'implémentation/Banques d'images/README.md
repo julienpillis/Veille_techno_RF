@@ -1,0 +1,3 @@
+# Banques d'images - Bases d'entraînement
+
+La première chose à avoir pour tester, et parfois entraîner son système, est une banque d’images de visages. Bien qu’il soit possible de créer sa propre base, plusieurs ont été déjà constituées et sont en libre accès. L’université de Princeton en recense de nombreuses telles que : 10k US Adult Faces Database, American Multiracial Face Database, Amsterdam Dynamic Facial Expression Set (ADFES), AT&T, Databases of Faces, Basel Face Database, Bogazici Face Database, City Infant Faces Database, Complex Emotion Expression Database… (Meghan Testerman, 2022)
