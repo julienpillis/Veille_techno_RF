@@ -1,0 +1,23 @@
+# Quelques systèmes de RF innovants
+
+## Authentification par la génétique
+<b>Source : Facial recognition from DNA using face-to-DNA classifiers</b> – 11 Jun 2019 / https://pubmed.ncbi.nlm.nih.gov/31186421/
+<br><br>Cet article expose un système de RF à partir de leur ADN en utilisant des caractéristiques faciales. L'ADN peut être utilisé pour prédire des caractéristiques phénotypiques telles que la forme du visage, mais ces prédictions sont encore limitées en précision.
+Les chercheurs ont testé la reconnaissance faciale à partir de profils ADN en comparant des visages donnés à un profil ADN de référence. Cela pourrait être utilisé comme un soutien supplémentaire dans les enquêtes basées sur l'ADN. L'article souligne que la reconnaissance faciale est basée sur des caractéristiques primaires qui déterminent précisément l'identité d'une personne, tandis que les caractéristiques qui fournissent moins d'informations sont appelées caractéristiques biométriques douces. Ils suggèrent que l'ADN peut être ajouté à la liste de ces caractéristiques biométriques douces, en particulier pour évaluer l'ascendance. Les performances de cette méthode sont inférieures à celles des méthodes classiques de reconnaissance faciale, mais elles pourraient être utiles dans des situations spécifiques.
+Cette méthode utilise la GPA et la PCA pour l’extraction des caractéristiques.
+ 
+ 
+## Electroencéphalographie et reconnaissance faciale
+<b> Source : EEG-Based Identity Authentication Framework Using Face Rapid Serial Visual Presentation with Optimized Channels</b> – 22 Dec 2020 / https://pubmed.ncbi.nlm.nih.gov/30577471/ <br><br>
+Dans cet article, un paradigme RSVP (Rapid Serial Visual Presentation) basé sur des images de visages est conçu pour l'authentification de l'identité. Ce paradigme combine les données de visage et d'EEG (électroencéphalogramme), deux types de traits biométriques, pour évoquer des traits plus spécifiques et stables en vue de l'authentification.
+Des différences significatives sont observées dans les composantes ERP (Potentiels Evoqués) et les cartes topographiques induites par le visage de la personne elle-même et les visages d'autres personnes (familier et non familier).
+Sur la base de ces résultats, une méthode d'authentification basée sur l’HDCA (Analyse de Composantes Discrétionnaires Hiérarchiques) et l’algorithme génétique (AG) est proposée pour construire des modèles spécifiques à chaque individu en utilisant un nombre optimisé de canaux EEG.
+Cette méthode atteint une précision d'authentification moyenne de 94,26% en 6 secondes. Même sur une période de 30 jours, la méthode parvient à maintenir une précision moyenne de 88,88%. Ainsi, les résultats expérimentaux démontrent l'efficacité, la robustesse et la stabilité du cadre proposé pour l'authentification de l'identité basée sur l'EEG.
+
+## Authentification par vision thermique
+<b> Source : Efficient thermal face recognition method using optimized curvelet features for biometric authentication </b>– 26 Jun 2023 / https://pubmed.ncbi.nlm.nih.gov/37363919/ <br><br>
+Cet article présente un système d'authentification biométrique utilisant des images thermiques du visage. Le système comporte cinq phases : (1) capture du visage de l'utilisateur avec une caméra thermique ; (2) segmentation de la région du visage avec une technique de segmentation basée sur les superpixels optimisée ; (3) extraction des caractéristiques du visage avec des méthodes de transformation d'ondelettes et de courbelettes ; (4) sélection des meilleures caractéristiques avec les algorithmes GWO, PSO et GA ; et (5) classification ou identification de l'utilisateur avec des classificateurs tels que Random Forest, KNN et Naive Bayes.
+Les résultats ont montré que les caractéristiques basées sur les courbelettes donnaient de meilleurs résultats que celles basées sur les ondelettes en termes de précision.
+De plus, l'algorithme GWO s'est révélé être le meilleur sélecteur de caractéristiques parmi PSO et GA. Il a réussi à sélectionner un ensemble de caractéristiques représentant moins de 20 % du total des caractéristiques des courbelettes tout en obtenant une précision de 99,5 % et d'autres mesures de performance élevées.
+En outre, il a été démontré que la stratégie d'apprentissage basée sur l'ensemble (c'est-à-dire Random Forest) est meilleure que l'apprentissage basé sur l'instance (c'est-à-dire KNN) et l'apprentissage basé sur la probabilité (c'est-à-dire NB) en termes de classification.
+Pour récapituler, l'article montre que les caractéristiques des images thermiques du visage, optimisées par GWO, peuvent être utilisées pour identifier et authentifier avec précision les utilisateurs en utilisant Random Forest, avec une précision de plus de 99,5 %.
