@@ -13,12 +13,14 @@ Vous trouverez sur la figure suivante un liste des techniques linéaires les plu
 
 
 ![unnamed](https://github.com/julienpillis/Veille_techno_RF/assets/73343827/c6fd1748-30c8-4241-991f-32c237353366)
+<br><i>Lien du graphe : <a href="https://go.stemic.app/maps/1bf0a933-a027-426c-95fa-daad89119f85">Extraction des caractéristiques</a> </i>
 
 
 De l’autre côté, nous retrouvons les <b>techniques non linéaires</b>. Celles-ci n'imposent pas cette contrainte de  simplicité et de prédictibilité. Elles permettent d'explorer des relations plus complexes et moins prévisibles entre les caractéristiques  du visage, pouvant inclure des courbes, des interactions non linéaires etc… Ces techniques peuvent réutiliser des concepts de techniques linéaires comme le fait le Kernel-PCA (K-PCA). Après obtention de la matrice des images, la Kernel PCA utilise une fonction noyau (kernel) pour transformer la matrice dans un espace de dimension supérieure. Cette transformation permet de traiter des données non linéaires. Les noyaux couramment utilisés en reconnaissance faciale sont le noyau gaussien (RBF) ou encore le noyau polynomial (Y. Wang and Y. Zhang, 2010).
 Bien évidemment, il existe d’autres techniques comme le Kernel-LDA, Locally Linear Embedding (LLE) ou encore la Local Tangent Space Analysis (LTSA). Les plus connues sont représentées sur la figure suivante, et présentées au sein de la thèse doctorale de Mebarka Belahcen (2013).
 
 ![unnamed](https://github.com/julienpillis/Veille_techno_RF/assets/73343827/ad32ce46-82b8-4efe-826f-8f34b46c9ad1)
+<br><i>Lien du graphe : <a href="https://go.stemic.app/maps/1bf0a933-a027-426c-95fa-daad89119f85">Extraction des caractéristiques</a> </i>
 
 L’avantage des techniques non-linéaires est qu’elles permettent (généralement) d’obtenir de meilleurs résultats que les techniques linéaires (Y. Wang and Y. Zhang, 2010).
 
